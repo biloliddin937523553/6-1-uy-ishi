@@ -1,0 +1,19 @@
+.div0{
+border: 5px solid white;
+width: 400px;
+height: 150px;
+background: black;
+color: yellowgreen;
+display: flex;
+align-items: center;
+font-size: 50px;
+justify-content: center;
+padding: 30px;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: wheat; 
+    height: 100vh;
+}
